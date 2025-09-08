@@ -278,7 +278,7 @@
   
   "background": {
       "alpha": 5,
-      "url": "https://raw.githubusercontent.com/ABlankName/TuyuTheme/refs/heads/main/FBQKvL6VUAUP-ZG.png?raw=true"
+      "url": "https://github.com/ABlankName/TuyuTheme/blob/main/FBQKvL6VUAUP-ZG.png?raw=true"
   },
   "plus":{
      "version":"0",
@@ -479,4 +479,5 @@
 },
   "spec": 2
 }
+
 
